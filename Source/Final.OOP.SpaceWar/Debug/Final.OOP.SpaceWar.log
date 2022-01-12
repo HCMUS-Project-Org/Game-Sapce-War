@@ -1,0 +1,32 @@
+﻿  Graphic.cpp
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(171,11): warning C4309: 'initializing': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(184,10): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(188,10): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(194,10): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(196,10): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(199,10): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(206,11): warning C4309: 'initializing': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(213,10): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(215,10): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(218,10): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(221,10): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(227,10): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(229,10): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(232,10): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(266,22): warning C4018: '<': signed/unsigned mismatch
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(884,8): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(888,8): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(892,8): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(896,8): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(1059,11): warning C4309: 'initializing': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(1435,11): warning C4309: 'initializing': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(1444,6): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(1470,7): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(1478,7): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(1484,6): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(1487,6): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(1490,6): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(1494,6): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(1497,6): warning C4309: '=': truncation of constant value
+D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Final.OOP.SpaceWar\Graphic.cpp(1500,6): warning C4309: '=': truncation of constant value
+  Final.OOP.SpaceWar.vcxproj -> D:\HCMUS\HK III_N1\PPLT hướng đối tượng\Đồ án\Final.OOP.SpaceWar\Debug\Final.OOP.SpaceWar.exe
